@@ -429,3 +429,4 @@ const verifyPayment = async (req, res) => {
 
 
 export { registerUser, loginUser, getProfile, updateProfile, bookAppointment, listAppoinment, cancleAppointment, payementRazorpay, verifyPayment }
+// minor update 6502
