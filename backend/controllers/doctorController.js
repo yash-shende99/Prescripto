@@ -262,3 +262,4 @@ const updateDoctorProfile=async(req,res)=>{
 }
 
 export {getChangeAvailablity,doctorList,loginDoctor,appointmentsDoctor,appointmentComplete,appointmentCancle,doctorDashboard,doctorProfile,updateDoctorProfile}
+// minor update 3930
