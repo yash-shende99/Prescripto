@@ -29,3 +29,4 @@ const authDoctor=async(req,res,next)=>{
 }
 
 export default authDoctor
+// minor update 9071
